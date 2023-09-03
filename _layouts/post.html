@@ -10,9 +10,7 @@
 <body class="line-numbers" ontouchstart="">
 {% else %}
 
-<head>
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-</head>
+
 <body ontouchstart="">
 {% endif %}
 {% assign lang = page.lang | default: site.default_lang %}
@@ -349,6 +347,18 @@
     });
   </script>
 
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <h3>留言板</h3>
+  <div id="vcomments"></div>
+  <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '5CRP1aMpDr9cZeJmB43Ipp5h-gzGzoHsz',
+            appKey: 'vXVvSrnv8vgU3pnWNyOfw6K4'
+        })
+  </script>
+
+	  
   {% if site.comments.disqus %}
   <script>
     /**
@@ -370,15 +380,6 @@
   </script>
   {% endif %}
 
-  <h3>留言板</h3>
-    <div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-            appId: '5CRP1aMpDr9cZeJmB43Ipp5h-gzGzoHsz',
-            appKey: 'vXVvSrnv8vgU3pnWNyOfw6K4'
-        })
-    </script>
 	  
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-core.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js"></script>
