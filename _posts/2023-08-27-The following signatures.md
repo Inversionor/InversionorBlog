@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '解决方法The following signatures couldn't be verified because the public key is not available'
-subtitle: 'Ubuntu使用过程中的一些错误解决方法记录'
+title: 解决方法The following signatures couldn't be verified because the public key is not available
+subtitle: Ubuntu使用过程中的一些错误解决方法记录
 date: 2023-08-27 19:50:00 +0800
 categories: Linux
 author: 月梦
