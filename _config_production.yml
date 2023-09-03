@@ -2,10 +2,10 @@
 version: 1.2.1
 
 # Site settings 配置站点
-title: 'Mr Li'
-description: '个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。'
-keyword: 'zhonger，zhonger的博客，nodejs，kvm, 机器学习'
-url: 'https://h2o-ac.pages.dev' # your host
+title: '月梦の技术博客'
+description: '月梦の技术博客，分享学习历程。'
+keyword: '月梦，月梦の技术博客，云原生，Golang, 分布式'
+url: 'https://ymiir.netlify.app/' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -24,8 +24,8 @@ default_lang: "zh-Hans"
 # Github
 github:
   enabled: true
-  owner: zhonger
-  repository: jekyll-theme-H2O-ac
+  owner: lim-yoona
+  repository: YueMengBlog
 
 # PWA
 pwa:
@@ -42,7 +42,7 @@ nav:
     logs: '/logs.html'
     tos: '/tos.html'
     RSS: '/feed.xml'
-    CV: '/cv.html'
+    # CV: '/cv.html'
     links: '/links.html'
 
 # Gray for the whole site 全站灰色
@@ -58,13 +58,13 @@ favicon: "/favicon.ico"
 
 # Footer
 footer:
-  since: 2015
+  since: 2022
 
 # Author 配置博主信息
-author: 'zhonger'
-nickname: 'zhonger'
-bio: '全栈开发者，热爱前端、运维和架构设计'
-avatar: '/assets/img/profile.webp'
+author: '月梦'
+nickname: 'yoona'
+bio: '热爱云原生、分布式及内存安全'
+avatar: '/assets/img/touxiang.jpg'
 
 # Search
 search: true
@@ -89,8 +89,8 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
-# theme-color: 'pink'  # pink or default
+# theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -98,24 +98,24 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  google-scholar: 'https://scholar.google.com/citations?user=AUupIooAAAAJ'
-  researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
-  ORCID: 'https://orcid.org/0000-0001-6973-3825'
-  github: 'https://github.com/zhonger'
-  linkedin: 'https://www.linkedin.com/in/shengzhouli/'
-  segmentfault: 'https://segmentfault.com/u/wuwozhonger'
+  # google-scholar: 'https://scholar.google.com/citations?user=AUupIooAAAAJ'
+  # researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
+  # ORCID: 'https://orcid.org/0000-0001-6973-3825'
+  github: 'https://github.com/lim-yoona'
+  # linkedin: 'https://www.linkedin.com/in/shengzhouli/'
+  # segmentfault: 'https://segmentfault.com/u/wuwozhonger'
 
 # Links 友情链接
 links:
-  'Mr Li': 'https://lisz.me'
+  '月梦の技术博客(旧站)': 'https://lim-yoona.github.io'
 
 # Supports 赞助商
 supports:
-  upyun: true
+  upyun: 
   webify: 
 
 # Beian 备案号
-beian: '沪ICP备xxxxxxxx号'
+beian: ''
 
 # CC License
 cclicense: true
@@ -202,7 +202,7 @@ notbyAI: true
 
 # Alive time
 alivetime: true
-alivestart: "12/23/2021"
+alivestart: "09/23/2022"
 
 # TOC
 toc: true
