@@ -24,12 +24,12 @@ lang: "zh-Hans"
 ٩(๑•̀ω•́๑)۶
 
 ## 关于本站
-本站是[月梦の技术博客](https://lim-yoona.github.io)的新站，旧站[https://lim-yoona.github.io](https://lim-yoona.github.io)访问速度较慢且颜值较低，因此新建了本站，会将之前的博客搬运过来，并且以后在本站更新，旧站不再更新。  
 
 本站采用Jekyll的[H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac)主题, 并在其上进行了二次开发，评论系统采用[Valine](https://valine.js.org/)实现，网站部署在[Netlify](https://www.netlify.com/)。  
 
 ## 关于友链
-本站友链放置在网页右侧“链接”处，如果您想要添加本站为友链，请先添加本站，并在本站[留言板](https://ymiir.netlify.app/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/lam)处附上贵站名称及链接，我看到后会及时处理。  
+
+本站友链放置在网页首页右侧“链接”处，如果您想要添加本站为友链，请先添加本站，并在本站[留言板](https://ymiir.netlify.app/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/lam)处附上贵站名称及链接，我看到后会及时处理。  
 
 贵站应满足如下要求:  
 - 最好是技术类博客网站  
