@@ -120,7 +120,7 @@ links:
 
 # Supports 赞助商
 supports:
-  upyun: 
+  upyun: true
   webify: 
 
 # Beian 备案号
