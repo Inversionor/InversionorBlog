@@ -1,6 +1,6 @@
 ---
 layout: post
-title: unordered_map
+title: unordered_map如何排序?
 subtitle: unordered_map笔记
 date: 2023-03-22 19:50:00 +0800
 categories: 数据结构与算法
@@ -26,7 +26,7 @@ tags:
 
 使用pair容器，每个pair存一对键值对，作为元素放入一个vector，重写sort()的compare函数，就可以对vector进行排序了。  
 
-具体实现(针对 [[HOT100]347前k个高频元素](https://ymiir.top/HOT100-347/)这道题)：  
+具体实现(针对 [[HOT100]347前k个高频元素](https://ymiir.top/leetcode/hot100-347)这道题)：  
 ```
 class Solution {
 public:
