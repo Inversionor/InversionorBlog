@@ -51,14 +51,12 @@ sudo docker run -p 6380:6379 --name redis -v /home/docker/redis/conf:/etc/redis/
 -d后台启动redis
 ```
 #### 6. 通过客户端连接Redis
-首先进入Redis容器
+进入Redis容器
 ```
 #我的容器名称是redis1
 docker exec -it redis1 /bin/bash
 #通过redis-cli连接Redis
 redis-cli
 ```
-出现这个界面表示连接成功:  
-![](/media/editor/redis客户端连接_20230324110611486937.jpg)
-输入ping命令，若输出PONG，表示目前处在一个正常的连通状态:  
-![](/media/editor/redisping_20230324110832230466.jpg)
+输入ping命令，若输出PONG，表示目前处在一个正常的连通状态。  
+
