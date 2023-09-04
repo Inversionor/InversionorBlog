@@ -1,10 +1,10 @@
 ---
 layout: archives
-home-title: Welcome to zhonger's blog!
-description: Writing, writing, writing ...
+home-title: 月梦の技术博客
+description: Keep Writing...
 permalink: /archives.html
-cover: 'https://images.unsplash.com/photo-1649771482867-21eaffe6fcd0'
-cover_author: 'Colin + Meg'
-cover_author_link: 'https://unsplash.com/@colinandmeg'
+cover: 'https://s1.ax1x.com/2023/09/02/pPBvmWV.jpg'
+cover_author: '佚名'
+cover_author_link: ''
 permalink: /archives.html
 ---
