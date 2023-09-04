@@ -106,7 +106,15 @@ sns:
 
 # Links 友情链接
 links:
-  '月梦の技术博客(旧站)': 'https://lim-yoona.github.io'
+  '月梦の技术博客(旧站)': 'https://lim-yoona.github.io'  
+  '吱吱的小站': 'http://www.gislxz.com/'  
+  'SunsetYuan': 'https://moonyuan.top/'  
+  '努力向前': 'https://greatiga.cn/'  
+  'SAUCERMAN': 'https://saucer-man.com/'  
+  '不明のNetWork OS': 'https://networkos.club/'  
+  'Siroi': 'https://www.siroi.top/'  
+  '慕雪的寒舍': 'https://blog.musnow.top/'  
+  '倦意博客': 'https://jy.cyou'
 
 # Supports 赞助商
 supports:
