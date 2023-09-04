@@ -8,7 +8,7 @@ permalink: /links.html
 <!-- 增加评论功能 -->
 <div class="post-footer-item comment" style="padding: 20px; margin-top: 15px;margin-bottom: 15px;">
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-<h2>留言板</h3>
+<h2>留言板</h2>
 <div id="vcomments"></div>
 <script>
     new Valine({
