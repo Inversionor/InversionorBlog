@@ -204,7 +204,7 @@ webpusher: false
 foreverblog: false
 
 # Wormhole
-wormhole: false
+wormhole: true
 
 # NotByAI
 notbyAI: false
