@@ -9,19 +9,44 @@ lang: "zh-Hans"
 
 
 月梦の技术博客（[https://ymiir.top](https://ymiir.top)），以下简称“本站”。
-# 自我介绍
 
 ## 关于我
 
 你好，欢迎大佬访问本站，我是月梦！
 
-站主是中科院北京某计算机相关研究所的研究生，今年深感互联网就业形势之严峻，为避免毕业即失业（悲），遂打算努力学习技术，为明年秋招做准备！
+我目前在[中国科学院大学](https://www.ucas.ac.cn/)，期望未来可以从事云原生开发相关的工作...
 
-博客内容包括但不限于**C++，Java,Golang，服务器开发，深度学习，云计算，分布式，微服务，Docker，Kubernetes以及Linux**等等，都会在博客中记录，如果你也在学习这些技术，并且感到孤独，可以探讨下！
+我的博客内容包括但不限于
+1. C++  
+2. Java  
+3. Golang  
+4. 服务器开发  
+5. 深度学习  
+6. 云计算  
+7. 分布式  
+8. 微服务  
+9. Docker  
+10. Kubernetes  
+11. Linux 
+12. ...
+
+都会在博客中记录，如果你也在学习这些技术，并且感到孤独，可以探讨下！
 
 希望带伙都能斩获理想的offer!
 
 ٩(๑•̀ω•́๑)۶
+
+## 技术栈及兴趣
+<img src="{{ site.baseurl }}/assets/icons/go.svg" alt="Go" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/cplusplus.svg" alt="C++" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/java.svg" alt="java" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/python.svg" alt="Python" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/docker.svg" alt="Docker" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/linux.svg" alt="Linux" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/kubernetes.svg" alt="kubernetes" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/redis.svg" alt="Redis" class="interest">
+<img src="{{ site.baseurl }}/assets/icons/mysql.svg" alt="Mysql" class="interest">
+
 
 ## 关于本站
 
@@ -32,8 +57,8 @@ lang: "zh-Hans"
 本站友链放置在网页首页右侧“链接”处，如果您想要添加本站为友链，请先添加本站，并在本站[留言板](https://ymiir.netlify.app/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/lam)处附上贵站名称及链接，我看到后会及时处理。  
 
 贵站应满足如下要求:  
-- 最好是技术类博客网站  
-- 内容良好、健康、积极向上且不违反反律法规  
+1. 最好是技术类博客网站  
+2. 内容良好、健康、积极向上且不违反反律法规  
 
 ## 联系我
 
