@@ -80,3 +80,4 @@ func DoSomeThing(ctx context.Context, arg Arg){
 ## 参考文献
 [1] Go. context[EB/OL]. [2023-10-03]. https://pkg.go.dev/context@go1.21.1.  
 [2] AllenWu. Golang Context 详细原理和使用技巧[EB/OL]. [2023-10-03]. https://zhuanlan.zhihu.com/p/587486673?utm_id=0.  
+[3] zinx. zinx-issue#248[EB/OL]. [2023-10-03]. https://github.com/aceld/zinx/issues/248.
