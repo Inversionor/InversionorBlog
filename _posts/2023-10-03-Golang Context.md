@@ -57,8 +57,10 @@ func Stream(ctx context.Context, out chan<- Value) error {
 
 
 ## Context应用场景
-1. 控制子goroutine的生命周期
-2. 并发控制(另一种并发控制方法是WaitGroup)
+1. 控制子goroutine的生命周期(常见)
+2. 上下文信息传递，比如处理http请求，在请求处理链路上传递信息
+3. 超时控制的方法调用
+4. 可以取消的方法调用
 
 ## 注意事项
 使用Context的程序应该遵循以下规则，以保证包之间的接口一致，并使静态分析工具来检查上下文传播：  
