@@ -112,7 +112,8 @@ func makechan(t *chantype, size int) *hchan {
 	... ...
 }
 ```
-**hchan数据结构**
+**hchan数据结构**  
+
 ![hchan数据结构](https://s1.ax1x.com/2023/04/30/p93t1sO.jpg)
 hchan维护一个**循环队列**，qcount存储队列中现有几个元素；dataqsiz存储循环队列的大小，也就是缓冲区的大小；buf是一个指针，指向该队列；sendx存储发送索引，之后发送的数据将存在这里；recvx存储接收索引，之后从中取数据就从这里取。  
 
