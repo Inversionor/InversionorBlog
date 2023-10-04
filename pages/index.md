@@ -61,8 +61,8 @@ lang: "zh-Hans"
 2. 内容良好、健康、积极向上且不违反反律法规  
 
 本站名称：月梦の技术博客  
-本站网址：https://ymiir.top/
-头像地址：https://z1.ax1x.com/2023/09/04/pPrMqrF.jpg
+本站网址：https://ymiir.top/  
+头像地址：https://z1.ax1x.com/2023/09/04/pPrMqrF.jpg  
 
 ## 联系我
 
