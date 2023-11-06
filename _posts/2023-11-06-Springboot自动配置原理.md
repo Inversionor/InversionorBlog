@@ -92,6 +92,7 @@ public class KafkaAutoConfiguration {
 
 ## 通过配置文件配置
 在写好了一个web程序后，为什么通过配置文件(`.properties`)就可以配置应用程序的信息，例如端口号等？  
-这是因为每个自动配置类之上都有一个注解形似`@EnableConfigurationProperties({KafkaProperties.class})`，它用于把配置文件中指定前缀的属性值封装到`xxxProperties`属性类中。  
+这是因为每个自动配置类之上都有一个注解形似：  
+`@EnableConfigurationProperties({KafkaProperties.class})`，它用于把配置文件中指定前缀的属性值封装到`xxxProperties`属性类中。  
 在自动配置类生效时，会自动加载配置文件中的属性，这样只需要程序重启即可更新配置。  
 
