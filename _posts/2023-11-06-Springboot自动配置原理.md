@@ -35,7 +35,7 @@ Springboot只需要导入starter，就可以愉快地写代码了，其余的配
 
 ### 核心场景启动器`spring-boot-starter`
 核心场景启动器对应的文件为`spring-boot-starter-3.1.5.pom`，可以看到核心场景启动器也引入了若干依赖，其中比较重要的一个是自动配置包，即`spring-boot-autoconfigure`。  
-[![pilaOoj.md.png](https://z1.ax1x.com/2023/11/06/pilaOoj.md.png)](https://imgse.com/i/pilaOoj)  
+[![pilc8AK.md.png](https://z1.ax1x.com/2023/11/07/pilc8AK.md.png#pic_center)](https://imgse.com/i/pilc8AK)  
 `spring-boot-autoconfigure`包下包含了`springboot`官方所有场景的配置类，只要这个包下的类可以生效，那么`Springboot`官方写好的整合功能就生效了。  
 
 **但是，问题在于，`Springboot`默认只扫描主程序所在的包及其下面的子包，并不能扫描到`spring-boot-autoconfigure`包下的配置类，Springboot是如何让它们生效的呢？**  
