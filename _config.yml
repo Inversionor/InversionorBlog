@@ -38,6 +38,7 @@ nav:
   blog: '/blog/index.html'
   archives: '/archives.html'
   tags: '/tags.html'
+  'comment': '/博客建站/lam'
   about:   
     # logs: '/logs.html'
     tos: '/tos.html'
