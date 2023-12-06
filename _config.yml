@@ -45,7 +45,7 @@ nav:
     RSS: '/feed.xml'
     # CV: '/cv.html'
     # links: '/links.html'
-    'Message Board': '/博客建站/lam'
+    # 'Message Board': '/博客建站/lam'
 
 # Gray for the whole site 全站灰色
 gray: false
