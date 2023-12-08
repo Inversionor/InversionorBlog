@@ -45,23 +45,23 @@ tags:
 ### 哈希环
 一致性哈希算法将数据或者节点映射到一个哈希环上，哈希环具有`2^32`个环空间，示意图如下：  
 
-[![piyquLR.png](https://z1.ax1x.com/2023/12/04/piyquLR.png)](https://imgse.com/i/piyquLR)  
+[![哈希环.png](https://z1.ax1x.com/2023/12/04/piyquLR.png)](https://imgse.com/i/piyquLR)  
 
 一致性哈希算法也是取模算法，不过它是对`2^32-1`取模，任何一个数据都会被映射在哈希环上的固定位置。  
 
 现假定已经有了三个节点，它们的信息通过哈希运算被映射在哈希环上：  
 
-[![piyLJA0.png](https://z1.ax1x.com/2023/12/04/piyLJA0.png)](https://imgse.com/i/piyLJA0)  
+[![节点映射哈希环上.png](https://z1.ax1x.com/2023/12/04/piyLJA0.png)](https://imgse.com/i/piyLJA0)  
 
 同时，缓存中的数据也分别会被映射在哈希环上：  
 
-[![piyLDBR.png](https://z1.ax1x.com/2023/12/04/piyLDBR.png)](https://imgse.com/i/piyLDBR)  
+[![节点与数据映射哈希环上.png](https://z1.ax1x.com/2023/12/04/piyLDBR.png)](https://imgse.com/i/piyLDBR)  
 
 对于数据，也就是`key`，它会在哈希环上顺时针找到下一个节点的哈希作为选择的节点，譬如上图，`key2` `key3`都会被映射到节点2，`key4` `key5`都会被映射到节点3，而`key6` `key7` `key1`都会被映射到节点1.  
 
 现假设增加一节点4：  
 
-[![piyL4ud.png](https://z1.ax1x.com/2023/12/04/piyL4ud.png)](https://imgse.com/i/piyL4ud)  
+[![增加节点4的哈希环.png](https://z1.ax1x.com/2023/12/04/piyL4ud.png)](https://imgse.com/i/piyL4ud)  
 
 可以看到，新增节点4后，仅有`key6` `key7`两个数据的映射节点发生了改变，而其余数据所对应的节点均未改变，这就很大程度上避免了大面积的缓存失效引发的`缓存雪崩`。  
 
