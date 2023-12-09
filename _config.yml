@@ -30,7 +30,7 @@ github:
 # PWA
 pwa:
   color: '#81BBFF'
-  short_name: 'lisz'
+  short_name: 'yoona'
 
 # Navigation links
 nav:
@@ -41,10 +41,10 @@ nav:
   'comment': '/博客建站/lam'
   about:   
     # logs: '/logs.html'
+    links: '/links.html'
     tos: '/tos.html'
     RSS: '/feed.xml'
     # CV: '/cv.html'
-    # links: '/links.html'
     # 'Message Board': '/博客建站/lam'
 
 # Gray for the whole site 全站灰色
