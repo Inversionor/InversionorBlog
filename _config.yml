@@ -41,7 +41,7 @@ nav:
   'comment': '/博客建站/lam'
   about:   
     # logs: '/logs.html'
-    links: '/links.html'
+    # links: '/links.html'
     tos: '/tos.html'
     RSS: '/feed.xml'
     # CV: '/cv.html'
@@ -122,6 +122,8 @@ links:
   'up-for-grabs': 'https://up-for-grabs.net/#/'
   'VnYzm': 'https://zimingyuan.github.io'
   'ZhangZhao’s Blog': 'https://zhangzhao219.github.io/'
+  '美团技术团队': 'https://tech.meituan.com/'
+  
 
 # Supports 赞助商
 supports:
