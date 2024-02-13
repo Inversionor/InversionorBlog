@@ -10,6 +10,7 @@ cover_author: 'Pexels'
 cover_author_link: 'https://www.pexels.com/zh-cn/'
 tags:
 - 分布式  
+pin: true
 ---
 
 _**Raft**_ 算法是目前应用广泛的分布式共识算法，在许多知名的开源项目比如 _etcd_ 中，都有 _**Raft**_ 的身影。同时，随着 _MIT6.824_ 课程的普及，_**Raft**_ 俨然成为了最广为人知的分布式共识算法。  
