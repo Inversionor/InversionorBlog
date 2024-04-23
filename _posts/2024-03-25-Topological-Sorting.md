@@ -84,7 +84,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int[][] graph = {{1,0},{1,2},{3,2},{0,1}};
+        int[][] graph = {{...}};
         boolean flag = topologicalSorting(4,graph);
         System.out.println(flag);
     }
