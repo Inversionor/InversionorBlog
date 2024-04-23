@@ -15,14 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
         with:
           submodules: true
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1.0'
-          bundler-cache: false
-      - run: bundle install
+          bundler-cache: true
       - run: bundle exec jekyll build --config _config_production.yml
       - name: Build And Deploy
         id: builddeploy
