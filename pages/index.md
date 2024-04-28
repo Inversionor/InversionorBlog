@@ -8,7 +8,7 @@ lang: "zh-Hans"
 ---
 
 
-月梦の技术博客（[https://ymiir.asia](https://ymiir.asia)），以下简称“本站”。
+月梦の技术博客（[https://ymiir.asia](https://ymiir.asia)），以下简称“本站”
 
 ## 关于我
 
@@ -50,7 +50,11 @@ lang: "zh-Hans"
 
 ## 关于本站
 
-本站采用Jekyll的[H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac)主题, 并在其上进行了二次开发，评论系统采用[Valine](https://valine.js.org/)实现，网站部署在[Netlify](https://www.netlify.com/)。  
+本站采用Jekyll的[H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac)主题, 并在其上进行了二次开发，评论系统采用[Valine](https://valine.js.org/)实现，网站部署在[Netlify](https://www.netlify.com/)  
+
+## 友情链接
+
+友链申请请戳[友链申请](https://ymiir.asia/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/link-info)
 
 ## 联系我
 
