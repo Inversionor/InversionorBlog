@@ -8,20 +8,20 @@ lang: "zh-Hans"
 ---
 
 
-月梦の技术博客（[https://ymiir.top](https://ymiir.top)），以下简称“本站”。
+月梦の技术博客（[https://ymiir.asia](https://ymiir.asia)），以下简称“本站”。
 
 ## 关于我
 
 你好，欢迎大佬访问本站，我是月梦！
 
-我目前在[中国科学院大学](https://www.ucas.ac.cn/)，期望未来可以从事云原生开发相关的工作...
+我目前在[中国科学院大学](https://www.ucas.ac.cn/)，期望未来可以从事基础设施研发相关的工作...
 
 我的博客内容包括但不限于
 1. C++  
 2. Java  
 3. Golang  
 4. 服务器开发  
-5. 深度学习  
+5. 大数据分析  
 6. 云计算  
 7. 分布式  
 8. 微服务  
@@ -51,19 +51,6 @@ lang: "zh-Hans"
 ## 关于本站
 
 本站采用Jekyll的[H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac)主题, 并在其上进行了二次开发，评论系统采用[Valine](https://valine.js.org/)实现，网站部署在[Netlify](https://www.netlify.com/)。  
-
-## 关于友链
-
-本站友链放置在网页首页右侧“链接”处，如果您想要添加本站为友链，请先添加本站，并在本站[留言板](https://ymiir.top/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/lam)处附上贵站名称及链接，我看到后会及时处理。  
-
-贵站应满足如下要求:  
-1. 最好是技术类博客网站  
-2. 内容良好、健康、积极向上且不违反反律法规  
-
-本站名称：月梦の技术博客  
-本站网址：https://ymiir.top/  
-头像地址：  
-https://z1.ax1x.com/2023/09/04/pPrMqrF.jpg  
 
 ## 联系我
 

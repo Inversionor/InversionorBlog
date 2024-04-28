@@ -5,7 +5,7 @@ version: 1.2.1
 title: '月梦の技术博客'
 description: '月梦の技术博客，分享学习历程。'
 keyword: '月梦, 月梦の技术博客, 云原生, Golang, 分布式, Java'
-url: 'https://ymiir.netlify.app/' # your host
+url: 'https://ymiir.asia/' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -65,7 +65,7 @@ footer:
 # Author 配置博主信息
 author: '月梦'
 nickname: 'yoona'
-bio: '熟悉Java、Go, 热爱云原生、分布式技术及内存安全'
+bio: '熟悉Java、Go, 分布式系统以及大数据分析与处理'
 avatar: '/assets/img/touxiang.jpg'
 
 # Search
@@ -114,16 +114,14 @@ links:
   '努力向前': 'https://greatiga.cn/'  
   'SAUCERMAN': 'https://saucer-man.com/'  
   '不明のNetWork OS': 'https://networkos.club/'  
-  'Siroi': 'https://www.siroi.top/'  
+  'Siroi(已失效)': 'https://www.siroi.top/'  
   '慕雪的寒舍': 'https://blog.musnow.top/'  
   '倦意博客': 'https://jyblog.cn'
   '北屿': 'https://blog.bj-yan.top/'
-  'first issue': 'https://firstissue.dev/'
   'up-for-grabs': 'https://up-for-grabs.net/#/'
   'VnYzm': 'https://zimingyuan.github.io'
   'ZhangZhao’s Blog': 'https://zhangzhao219.github.io/'
   '美团技术团队': 'https://tech.meituan.com/'
-  '无名博客': 'https://wuminboke.site/'
   '小城寒风': 'https://blog.atago.moe/'
   
 
