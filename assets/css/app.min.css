@@ -300,7 +300,7 @@ a {
 
 .markdown-body {
   font-family: "LXGW WenKai Screen", -apple-system, Verdana, "PingFang SC", "Helvetica Neue", "Arial", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-  width: 100%;
+  width: 1000px;
   box-sizing: border-box;
   padding: 0 0 32px;
 }
