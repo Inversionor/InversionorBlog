@@ -300,7 +300,7 @@ a {
 
 .markdown-body {
   font-family: "LXGW WenKai Screen", -apple-system, Verdana, "PingFang SC", "Helvetica Neue", "Arial", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-  width: 1000px;
+  width: 100%;
   box-sizing: border-box;
   padding: 0 0 32px;
 }
@@ -612,7 +612,7 @@ a {
   justify-content: space-between;
 }
 .post-content .container .contents {
-  width: 695px;
+  width: 1000px;
   padding: 30px;
 }
 .post-content .interest {
