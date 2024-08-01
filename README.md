@@ -9,6 +9,6 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhonger%2Fjekyll-theme-H2O-ac.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhonger%2Fjekyll-theme-H2O-ac?ref=badge_shield)
 ![Gem](https://img.shields.io/gem/dt/jekyll-theme-h2o-ac)
 
-基于 Jekyll 和 [H2O](https://github.com/kaeyleo/jekyll-theme-H2O) 主题、适合学术研究人员和运维开发人员的博客主题模板。
+基于 Jekyll 和 [H2O](https://github.com/kaeyleo/jekyll-theme-H2O) 主题、适合学术研究人员和运维开发人员的博客主题模板！
 
 A Jekyll theme for researchers and maintainers based on Jekyll and [H2O](https://github.com/kaeyleo/jekyll-theme-H2O) theme.
